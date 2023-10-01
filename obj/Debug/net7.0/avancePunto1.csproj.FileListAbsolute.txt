@@ -1,0 +1,44 @@
+C:\Users\yonni\Downloads\avancePunto1\bin\Debug\net7.0\avancePunto1.exe
+C:\Users\yonni\Downloads\avancePunto1\bin\Debug\net7.0\avancePunto1.deps.json
+C:\Users\yonni\Downloads\avancePunto1\bin\Debug\net7.0\avancePunto1.runtimeconfig.json
+C:\Users\yonni\Downloads\avancePunto1\bin\Debug\net7.0\avancePunto1.dll
+C:\Users\yonni\Downloads\avancePunto1\bin\Debug\net7.0\avancePunto1.pdb
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.AssemblyInfoInputs.cache
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.AssemblyInfo.cs
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.csproj.CoreCompileInputs.cache
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.dll
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\refint\avancePunto1.dll
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.pdb
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\avancePunto1.genruntimeconfig.cache
+C:\Users\yonni\Downloads\avancePunto1\obj\Debug\net7.0\ref\avancePunto1.dll
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\bin\Debug\net7.0\avancePunto1.exe
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\bin\Debug\net7.0\avancePunto1.deps.json
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\bin\Debug\net7.0\avancePunto1.runtimeconfig.json
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\bin\Debug\net7.0\avancePunto1.dll
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\bin\Debug\net7.0\avancePunto1.pdb
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.csproj.AssemblyReference.cache
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.AssemblyInfoInputs.cache
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.AssemblyInfo.cs
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.csproj.CoreCompileInputs.cache
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.dll
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\refint\avancePunto1.dll
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.pdb
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\avancePunto1.genruntimeconfig.cache
+D:\Tecnologico de antioquia\Quinto Semestre\Construccion IV\Taller 2\pruebas\avancePunto1\obj\Debug\net7.0\ref\avancePunto1.dll
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\bin\Debug\net7.0\avancePunto1.exe
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\bin\Debug\net7.0\avancePunto1.deps.json
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\bin\Debug\net7.0\avancePunto1.runtimeconfig.json
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\bin\Debug\net7.0\avancePunto1.dll
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\bin\Debug\net7.0\avancePunto1.pdb
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.csproj.AssemblyReference.cache
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.AssemblyInfoInputs.cache
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.AssemblyInfo.cs
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.csproj.CoreCompileInputs.cache
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.dll
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\refint\avancePunto1.dll
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.pdb
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\avancePunto1.genruntimeconfig.cache
+C:\Users\maosp\Downloads\avancePunto1\avancePunto1\obj\Debug\net7.0\ref\avancePunto1.dll
